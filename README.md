@@ -44,9 +44,4 @@ This project uses image processing and deep learning techniques to classify heal
 - Real-time disease detection using camera input
 - Integration with agricultural advisory systems
 
-# Author
-**Karthikeswari V.K.**  
-Artificial Intelligence & Data Science  
 
-## 📜 License
-This project is for educational and research purposes.
